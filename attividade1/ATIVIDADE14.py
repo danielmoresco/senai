@@ -1,6 +1,6 @@
 produto = float(input(" Olá, insira o preço do seu produto: "))
 
-novo_preco = produto * 0.11222
+novo_preco = produto * 0.10
 
 total = produto - novo_preco 
 
